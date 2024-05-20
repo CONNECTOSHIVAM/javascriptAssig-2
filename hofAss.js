@@ -142,4 +142,6 @@ originalNumbers1.forEach((el) => {
       }
 });
 //print the arrays values.
-console.log(`even number list:- `, evenNumber); 
+console.log(`even number list:- `, evenNumber);
+
+//these code Write by CONNECTOSHIVAM
